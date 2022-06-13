@@ -1,3 +1,3 @@
 # Assignments
 
-Java Tasks that Norman sent me >:D
+Java tasks that Norman sent me
